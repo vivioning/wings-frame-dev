@@ -10,7 +10,6 @@ Open-Source Framework For Wings (Hangzhou) Software Technology Co., Ltd.
 * spring-api
 * spring-boot-starter-aop
 * spring-boot-starter-mail
-* spring session security or shiro
 * spring-boot-starter-web
 
 
